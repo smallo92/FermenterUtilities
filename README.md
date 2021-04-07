@@ -37,3 +37,6 @@ If you have any suggestions, feel free to let me know!
 * Initial release.
 
 [Discord Support](https://discord.gg/pTGSu8R7DW)
+
+## Affiliate Link
+<a href="https://zap-hosting.com/a/3b7ec5e8e178b1225b63fbeced07c07052e0425b"><img src="https://zap-hosting.com/interface/download/images.php?type=affiliate&id=99492" alt="ZAP-Hosting Gameserver and Webhosting"></a>
